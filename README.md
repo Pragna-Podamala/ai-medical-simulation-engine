@@ -1,4 +1,4 @@
-# 🏥 Medical Scenario Simulation Agent v2
+# 🏥 Medical Scenario Simulation Agent 
 
 An AI-powered medical training simulator for ER clinical decision-making. Practice high-pressure scenarios and get scored in real time.
 
